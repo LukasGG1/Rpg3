@@ -1,0 +1,11 @@
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.exe
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.deps.json
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.runtimeconfig.json
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.runtimeconfig.dev.json
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Users\s208045\source\repos\RPG\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.pdb
+C:\Users\s208045\source\repos\RPG\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csprojAssemblyReference.cache
+C:\Users\s208045\source\repos\RPG\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\s208045\source\repos\RPG\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfo.cs
+C:\Users\s208045\source\repos\RPG\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Users\s208045\source\repos\RPG\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.pdb
